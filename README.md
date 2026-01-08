@@ -8,8 +8,11 @@
 <p align='center'>
   <!-- gmail -->
   <img src="https://img.shields.io/badge/vs501kr@gmail.com-EA4335?logo=gmail&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </p>
 
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 🤔 저는...
 
@@ -22,6 +25,8 @@ AI Engineer, AI 서비스 개발자, Data Engineer를 목표로 하는 개발자
 <br>
 <br>
 <br>
+
+---
 
 <!-- Tech Stack -->
 
@@ -39,6 +44,8 @@ AI Engineer, AI 서비스 개발자, Data Engineer를 목표로 하는 개발자
 </p>
 <br>
 <br>
+
+---
 
 <!-- Once I've Used -->
 ## 🙃 Once I've Used & Learned
@@ -58,6 +65,8 @@ AI Engineer, AI 서비스 개발자, Data Engineer를 목표로 하는 개발자
 <!-- GitHub API key 필요하나봄?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaPark&layout=compact&theme=algolia)
 -->
+
+---
 
 <!-- 솔브닥 프로필 -->
 [![Solved.ac
