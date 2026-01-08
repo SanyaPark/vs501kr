@@ -1,7 +1,7 @@
 # vs501kr
 <!-- header -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20%20Sanya's%20GitHub%20%20&fontSize=90&fontAlignY=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20%20Sanya's%20GitHub%20%20&fontSize=70&fontAlignY=40&desc=%20%20소소한%20불편함을%20고쳐봅니다">
 </p>
 
 <!-- contact badge -->
