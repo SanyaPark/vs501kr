@@ -70,7 +70,35 @@ AI Engineer, AI 서비스 개발자, Data Engineer를 목표로 하는 개발자
 
 <!-- 솔브닥 프로필 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
+프로필](https://mazassumnida.wtf/api/mini/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
+프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
+
+
+---
+<!-- My activities -->
+
+## Activities
+
+<table>
+  <thead>
+    <tr style="background-color: #f0f0f0;"> 
+      <th align="center">활동</th>
+      <th align="center">기간</th>
+      <th align="center">분야</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">네이버 부스트캠프 AI Tech 6기</td>
+      <td align="center">23.11 ~ 24.04</td>
+      <td align="center">NLP</td>
+    </tr>
+    <tr>
+      <td align="center">현대 소프티어 DE 4기</td>
+      <td align="center">25.01 ~ 25.02</td>
+      <td align="center">데이터 엔지니어링</td>
+    </tr>
+  </tbody>
+</table>
