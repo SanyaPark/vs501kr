@@ -70,10 +70,10 @@ AI Engineer, AI 서비스 개발자, Data Engineer를 목표로 하는 개발자
 
 <!-- 솔브닥 프로필 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
+프로필](https://mazassumnida.wtf/api/mini/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
+프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=vs501kr)](https://solved.ac/vs501kr)
 
 
 ---
